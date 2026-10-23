@@ -1,0 +1,19 @@
+Thursday, October 22 close: the S&P 500 fell, but most of its stocks rose.
+
+📉 S&P 500: −1.2% · Dow 30: −1.4%
+
+📊 Breadth: 337 advancers, 159 decliners, 1 unchanged across 497 S&P 500 stocks
+
+🟢 6 of 11 sectors up: Consumer Staples +3.2%, Utilities +1.9%, Healthcare +1.5%, Financial +1.1%. Consumer Staples had all 34 stocks higher.
+
+🔴 Weakest: Technology −3.1%, Communication Services −2.9%, Consumer Discretionary −1.9%. Technology had 51 of 75 stocks lower.
+
+Top S&P 500 gainers: ALLE +11.0%, ROP +9.7%, LEN +8.7%, BX +8.4%, GIS +8.0%
+
+Top S&P 500 decliners: MRNA −17.6%, COHR −12.5%, LRCX −11.8%, LITE −11.5%, FLEX −11.1%
+
+Why the gap? The index is market-cap weighted, so a handful of large technology names can pull it down while most stocks finish higher. Breadth counts every stock once.
+
+Not investment advice.
+
+#StockMarket #SP500 #MarketClose #Stocks #Trading
